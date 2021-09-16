@@ -1,3 +1,5 @@
 Hej! Det här är första filen i alt branch.
 
-Jag gillar dillchips med dilldip.
+Jag gillar dillchips med dilldip*.
+
+* se infofil
